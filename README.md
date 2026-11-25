@@ -2,6 +2,10 @@
 
 Curated resources and reference material behind **"The Terminal Is the Engine"** workshop and the broader research Clemens has done over the past months. Compiled from local project notes and the Claude Pulse session history.
 
+## Start building
+
+- [`starters/`](./starters) — four ready-to-build PRDs you can hand straight to Claude Code: a web app, a browser extension, and a mobile app harness (bring your own product idea), plus a specific PRD for a browser with a terminal/agent panel built in. See `starters/README.md` for how to use one.
+
 ## Core workshop material
 
 - [`workshop-core.md`](./workshop-core.md) — protocols (ACP/MCP/A2A), the reselling/legal line, OAuth & embedded-webview limits, Electron vs. Tauri — the direct sources behind the talk.
